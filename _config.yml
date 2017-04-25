@@ -1,0 +1,12 @@
+# Site settings
+description: Shared thoughts
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://thinhphan.github.io" # the base hostname & protocol for your site
+
+# User settings
+username: Vincent Phan
+user_description: A developer.
+user_title: Vincent Phan
+email: phanquocthinh@gmail.com
+twitter_username: phanquocthinh
+github_username: ThinhPhan
