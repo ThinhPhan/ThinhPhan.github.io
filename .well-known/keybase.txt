@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/vincentphan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thinhphan.github.io
+  * I am vincentphan (https://keybase.io/vincentphan) on keybase.
+  * I have a public key with fingerprint DD84 89C3 55B3 FDD0 201E  4E48 E6B6 FB5E 0726 1456
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101beb44da1a2cdd434caf9520729757164a8eedd4cc944bebcf540c546ae7f03da0a",
+      "fingerprint": "dd8489c355b3fdd0201e4e48e6b6fb5e07261456",
+      "host": "keybase.io",
+      "key_id": "e6b6fb5e07261456",
+      "kid": "0101beb44da1a2cdd434caf9520729757164a8eedd4cc944bebcf540c546ae7f03da0a",
+      "uid": "455c49ce534fa16f8207f036b970b219",
+      "username": "vincentphan"
+    },
+    "service": {
+      "hostname": "thinhphan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1536642790,
+  "expire_in": 157680000,
+  "prev": "f10ecd481f9436599df8d49c9ff9fa50b0b0ab04eab40f2ef9afd3a02882422a",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMIwAnicrZJrSBRBHMBPzXyUWRiERlGboNUh+5jd271IkIig8uwh2sM6ZnZm7jZr
+79zdu0qTkIgoKoigB4n2FCsSjB4iVmYimhIIkVIS9SWjoiIE+2I2a/atj818GGbm
+9//N//9nujOSPOkJidbTgbzk6j0J/U+vxDw7zwc+1HAogg9y/hqukkwtZC8mthOs
+NDDn53iBFxBBAGAoQFHHGEhAh1STRd4naj7ZJygAqoSwC13XAGCsTmXA6zJQIPFR
+XsKQh5yXo4YZIlbUMkyHaTFWgarpkiwjiWLMi7xAAAEqUZBCkUyYXBGArLDAcMR2
+I1hyCNqkwIiwM7YJTqX3D/4/5x2b0gFZ1oGmE1kCFAoKVZmGMQrSfDwSBc0FbWKZ
+cB9hdNwwdWI60TA0uVovxy7ihk7c3rrFTENO2DDDLlIQMpxwDP2pLGpFnIge2cuA
+sONEbb8rcA5G3Yj9BAWnXUFkmJh1lEXEiWUbEZPzC4zUHcOVC7KkKED0abyXIwei
+hkWChkvIPkXl2XDfIXGmpAJPdAxUgWpAUmRNw1TFrFCNUo1CmUdsQsQDAhHgqUio
+BimWIC+qqghE0W2QTarMCOdXWZowxJS2ETKhE7MIV9vVWTHDk5DumZmc6P40T3ra
+3L//r3QyZbKsuLOrsH54447alnn77w0mXy9qah+sHi/+XD86d+V5f+DJq/LnhzYF
+2y+cXI+20xuL2jKyO3M+f6STHadnVZyYPXDs7F2zL3PLm8kVHXnLKuoOtaw7srv+
+WdXa+ShlrMi7Zii5C7zOKu4e3dxYJue/wL9qNpVuKdtz7k71jzdVl5YPY9qQm9s3
+0dx/7d2tvm9X8x8ETrV+T5o9J/fT/dTVJZdGreIGb6NxPeXRz5bwUNrbjq89vdn0
+ovr4cOyY2iBl9lfiiZHjOxacSAwcWFizNOfh+7hd17TsZmpgQ8muQu/tgdfla3y9
+S9rGvmRvvTze/DKUdGGxd/jMyNEjWT3bClfprQt+A/61RVo=
+=Z+yD
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vincentphan
+
+==================================================================
