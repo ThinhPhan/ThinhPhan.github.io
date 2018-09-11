@@ -1,9 +1,19 @@
 # Site settings
-title: Vincent's Blog
+title:  Vincent's Blog
 author: Vincent Phan
 description: Shared thoughts
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thinhphan.github.io" # the base hostname & protocol for your site
+
+# timezone:    Asia/Ho_Chi_Minh
+# future:      false
+# The allowed values are 'rouge', 'pygments' or null.
+highlighter: rouge
+# markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
+markdown:    kramdown
+lsi:         false
+permalink:   "/:title"
 
 # User settings
 username: Vincent Phan
@@ -14,7 +24,18 @@ twitter_username: phanquocthinh
 github_username: ThinhPhan
 
 # Build settings
-markdown: kramdown
+kramdown:
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+
 disqus:
   shortname: vincentphan
+
 google_analytics: UA-31491661-1
+
+exclude: [
+  "Gemfile",
+  "Gemfile.lock",
+  "vendor"
+]
+
+# theme: jekyll-theme-minimal
